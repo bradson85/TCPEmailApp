@@ -2,7 +2,7 @@
 -Cs 447
 -Project 3
 
-Directions for Project 3
+Directions to run Project 3
 
 Coded in java
 
